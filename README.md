@@ -1,6 +1,6 @@
-<h3 align=center>Welcome to my GitHub profile! 👋 Here you'll find all of my PET projects. Feel free to check them out!</h3>
-
 <h1 align=center><a href="CV.pdf">My CV | Моё резюме</h1>
+
+<h3 align=center>Welcome to my GitHub profile! 👋 Here you'll find all of my PET projects. Feel free to check them out!</h3>
 
 <h2 align=center>My Projects</h2>
 
